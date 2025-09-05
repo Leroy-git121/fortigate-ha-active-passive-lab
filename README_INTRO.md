@@ -40,4 +40,4 @@ Below is the high-level topology used in this lab:
 2. Use the screenshots and topology to replicate the environment in your own lab.
 
 
-✍️ *This file is a lightweight intro. For the full HA setup guide, see the main `README.md`.*
+✍️ *This file is a lightweight intro. For the full HA setup guide, see the main `README.md` in the docs folder.*
