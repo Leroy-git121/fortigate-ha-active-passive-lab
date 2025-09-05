@@ -14,11 +14,11 @@ It is built in a virtual lab environment and serves as a reference for students,
 ## Topology
 
 Below is the high-level topology used in this lab:
-
+   ```
           /--[Firewall 1]--\
 [R1]------       |   |      ------[WAN]
           \--[Firewall 2]--/
-
+   ```
 - Two FortiGate firewalls in **Active–Passive HA** cluster
 - Heartbeat links between the pair for failover synchronization
 - LAN side connected to internal client(s)
