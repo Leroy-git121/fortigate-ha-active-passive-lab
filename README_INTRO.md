@@ -33,7 +33,7 @@ Below is the high-level topology used in this lab:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/fortigate-ha-active-passive-lab.git
+   git clone (https://github.com/Leroy-git121/fortigate-ha-active-passive-lab)
    cd fortigate-ha-active-passive-lab
    ```
 
